@@ -23,7 +23,7 @@ function Education() {
                 {/* Left Side: Image */}
                 <div className="col-md-6 text-center">
                     <img
-                        src="media/images/education.svg"
+                        src="/media/images/education.svg"
                         alt="Varsity Illustration"
                         style={imageStyle}
                     />

@@ -7,30 +7,30 @@ function Universe() {
                 <h1>The Zerodha Universe</h1>
                 <p>Extend your trading and investment experience even further with our partner platforms</p>
                 <div className="col-4 p-3 mt-5">
-                    <img src="media/images/smallcaseLogo.png" />
+                    <img src="/media/images/smallcaseLogo.png" />
                     <p className="text-small text-muted">Themetic investing Platform</p>
                 </div>
                 <div className="col-4 p-3 mt-5">
-                    <img src="media/images/StreakLogo.png" style={{ width: "100px" }} />
+                    <img src="/media/images/StreakLogo.png" style={{ width: "100px" }} />
                     <p className="text-small text-muted"> Algo & strategy Platform</p>
 
                 </div>
                 <div className="col-4 p-3 mt-5">
-                    <img src="media/images/sensibullLogo.svg" />
+                    <img src="/media/images/sensibullLogo.svg" />
                     <p className="text-small text-muted"> options trading platform</p>
 
                 </div>
                 <div className="col-4 p-3 mt-5">
-                    <img src="media/images/sensibullLogo.svg" />
+                    <img src="/media/images/sensibullLogo.svg" />
                     <p className="text-small text-muted">Themetic investing Platform</p>
                 </div>
                 <div className="col-4 p-3 mt-5">
-                    <img src="media/images/goldenpiLogo.png" />
+                    <img src="/media/images/goldenpiLogo.png" />
                     <p className="text-small text-muted"> bonds trading platform</p>
 
                 </div>
                 <div className="col-4 p-3 mt-5">
-                    <img src="media/images/dittoLogo.png" style={{ width: "100px" }} />
+                    <img src="/media/images/dittoLogo.png" style={{ width: "100px" }} />
                     <p className="text-small text-muted"> Insurance</p>
 
                 </div>

@@ -8,7 +8,7 @@ function Footer() {
           {/* Logo & Social Media */}
           <div className="col-md mb-4">
             <img
-              src="media/images/logo.svg"
+              src="/media/images/logo.svg"
               alt="Zerodha Logo"
               style={{ width: "60%" }}
             />
